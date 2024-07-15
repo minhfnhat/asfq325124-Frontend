@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unleash the Power of Creativity in Every Project",
+        "title": "Ignite Your Workspace with Innovation"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the Power of Creativity in Every Project",
+        "title": "Ignite Your Workspace with Innovation"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unleash the Power of Creativity in Every Project",
+        "title": "Ignite Your Workspace with Innovation"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unleash the Power of Creativity in Every Project",
+        "title": "Ignite Your Workspace with Innovation"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the Power of Creativity in Every Project",
+        "title": "Ignite Your Workspace with Innovation"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unleash the Power of Creativity in Every Project",
+        "title": "Ignite Your Workspace with Innovation"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unleash the Power of Creativity in Every Project",
+        "title": "Ignite Your Workspace with Innovation"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the Power of Creativity in Every Project",
+        "title": "Ignite Your Workspace with Innovation"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Ignite Your Workspace with Innovation",
+  "subtitle": "Unleash the Power of Creativity in Every Project"
+}
